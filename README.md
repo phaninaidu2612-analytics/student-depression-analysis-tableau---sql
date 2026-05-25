@@ -2,11 +2,8 @@
 
 ## Tableau Public Dashboard link : 
 
-(Add your Tableau Public dashboard link here)
+### The project was done in trail version of tableau desktop , As the train ended hence could not be able to push it in tableau public as well. Will upload it soon.
 
-🔗 GitHub Repository
-
-(Add your GitHub repository link here)
 
 ## Dashboard Preview :
 
