@@ -2,7 +2,7 @@
 
 ## Tableau Public Dashboard link : 
 
-### The project was done in trail version of tableau desktop , As the train ended hence could not be able to push it in tableau public as well. Will upload it soon.
+### The project was done in trail version of tableau desktop , As the trail ended hence could not be able to push it in tableau public as well. Will upload it soon.
 
 
 ## Dashboard Preview :
